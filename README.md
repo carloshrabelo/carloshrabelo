@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Carlos! 👋
 
-<!--
-**carloshrabelo/carloshrabelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Front-end engineer
 
-Here are some ideas to get you started:
+🕺🏻Practice dancing in my spare time (Zouk ❤️ [Bachata](https://web.facebook.com/watch/?v=598311827640763))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📺 Animes ( GTO > all )
+
+🎮 Mainly fighting games
+
+### Find me elsewhere 🌎
+
+[![Site Badge](https://img.shields.io/static/v1?label=🌐&message=carloshrabelo.dev&color=23303e&labelColor=576674&style=for-the-badge&)](https://carloshrabelo.dev) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carloshrabelo)
