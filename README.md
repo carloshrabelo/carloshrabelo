@@ -3,7 +3,7 @@
 🤓 Front-end engineer <br/>
 🕺🏻Practice dancing in my spare time (Zouk ❤️ [Bachata](https://web.facebook.com/watch/?v=598311827640763))<br/>
 📺 Animes ( GTO > all )<br/>
-🎮 Mainly fighting games
+🎮 Mainly fighting games<br/>
 
 ## 🔎 Find me elsewhere
 
