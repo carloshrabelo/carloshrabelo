@@ -1,11 +1,8 @@
 ### Hey, I'm Carlos! 👋
 
 🤓 Front-end engineer
-
 🕺🏻Practice dancing in my spare time (Zouk ❤️ [Bachata](https://web.facebook.com/watch/?v=598311827640763))
-
 📺 Animes ( GTO > all )
-
 🎮 Mainly fighting games
 
 ### Find me elsewhere 🌎
